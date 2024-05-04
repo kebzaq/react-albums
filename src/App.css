@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+#root {
+  /* max-width: 1280px; */
+  margin: 0 auto;
+  /* padding: 2rem; */
+  text-align: center;
+}
+
+header {
+  background-color: black;
+  color: white;
+  padding: 15px;
+}
+.pics {
+  display: flex;
+  justify-content: space-around;
+  margin: 20px;
+}
+.main {
+  max-width: 1280px;
+  margin: auto;
+}
+hr {
+  width: 80%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
